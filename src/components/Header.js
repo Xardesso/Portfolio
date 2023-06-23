@@ -1,6 +1,6 @@
 // Import Assets
 import resume from "../assets/SOLIDITYV2.pdf";
-import profile from "../assets/profilowe.png";
+import profile from "../assets/profile.png";
 
 const Header = () => {
   return (
