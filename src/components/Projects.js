@@ -63,24 +63,24 @@ const Projects = () => {
         </div>
 
         <div className="projects__card">
-          <h3>Other Smart Contracts</h3>
+          <h3>Arbitrage Bot</h3>
           <p>
-            Those smart contracts showcases the innovative work and
-            contributions in the realm of DAPPs and blockchain technology.
-            Within this repository, you will find a diverse range of smart
-            contracts that cater to various use cases . Each smart contract has
-            been carefully designed and developed to leverage the power of
-            blockchain, enabling trust, transparency, and efficiency . As you
-            explore this repository, you'll discover the versatility of smart
-            contracts and their impact on reshaping industries. Feel free to
-            dive into the individual contract repositories to learn more about
-            their specific features, implementations, and the underlying
-            blockchain technologies they utilize.
+            This project involves the development of an advanced arbitrage bot
+            that leverages the power of flashloans. The bot is designed to
+            exploit price differences between two popular decentralized
+            exchanges, Sushiswap and Uniswap.The bot operates by borrowing
+            assets at a low price from one exchange using a flashloan, and then
+            immediately selling the assets at a higher price on the other
+            exchange. This process, known as arbitrage, allows the bot to
+            generate profit from the price discrepancy between the two
+            exchanges.The use of flashloans in this bot is a key feature.
+            Flashloans are a type of loan in DeFi where no upfront collateral is
+            required, as long as the loan is repaid within the same transaction.
           </p>
 
           <center>
             <a
-              href="https://github.com/Xardesso?tab=repositories"
+              href="https://github.com/Xardesso/ArbitrageBot"
               target="_blank"
               className="button"
             >
