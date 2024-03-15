@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+geth — data-dir=”E:\geth” — rpc — rpcapi eth,web3,net,personal
