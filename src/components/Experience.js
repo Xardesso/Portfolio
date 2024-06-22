@@ -5,21 +5,47 @@ const Experience = () => {
 
       <ul>
         <li>
-          <i>Smurfit Kappa Intern</i>, 10.03.2023-10.14.2023
+          <i>Blockchain developer Apprenticeship at BCAMP</i>,
+          17.06.2024-29.07.2024{" "}
           <ul>
             <li>
-              I participated in an internship at Smurfit Kappa as a programmer.
-              During the internship, I created a website for storing IT
-              equipment. Logging into this website was done by checking the
-              Windows user account of the person attempting to log in.
+              I participated in a BCAMP Apprenticeship. During this time I
+              leveraged my knowledge to work in the Blokchain ecosystem and
+              Smart Contract Solidity language.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <i>Internship at CKZ Konin</i>, 11.03.2024-22.03.2024
+          <ul>
+            <li>
+              I participated in an internship at CKZ. During this internship, we
+              learning about Simens CNC machine programing.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <i>Internship at Local programming company “IT SERWIS”</i>,
+          26.02.2024-08.03.2024
+          <ul>
+            <li>
+              I participated in an internship at a local programming company It
+              Serwis. During this internship i worked in JS language.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <i>Smurfit Kappa internship</i>, 10.03.2023-10.14.2023
+          <ul>
+            <li>
+              I participated in an internship at Smurfit Kappa as a
+              programmer.During this internship, i worked in JS and Python
+              languages.
             </li>
           </ul>
         </li>
         <li>
           <i>Owner of few Github projects</i>, 2021-Present
-          <ul>
-            <li>Creator of few Dapps and Smart Contracts</li>
-          </ul>
         </li>
       </ul>
     </div>
